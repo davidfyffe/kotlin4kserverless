@@ -1,4 +1,4 @@
-import com.lm.app
+import com.fourk.app
 import com.natpryce.hamkrest.assertion.assertThat
 import org.http4k.core.Method
 import org.http4k.core.Method.GET
